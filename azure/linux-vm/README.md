@@ -1,0 +1,1 @@
+Creates a linux VM on Azure, using a local state backend with custom data to install Nginx
