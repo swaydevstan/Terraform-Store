@@ -1,0 +1,1 @@
+Creates a linux VM on Azure with custom data to install Nginx
